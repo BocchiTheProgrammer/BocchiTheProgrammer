@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:da3287&height=200&section=header&text=Bocchi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=da3287" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=200&section=header&text=Bocchi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=f7a4c4" />
 
 <br/>
 
@@ -51,4 +51,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:da3287,50:da3287,100:da3287&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:da3287,50:7e2a70,100:f7a4c4&height=120&section=footer" />

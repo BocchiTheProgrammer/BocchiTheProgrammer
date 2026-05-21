@@ -1,60 +1,22 @@
-<p align="center">
-  <img src="https://media.tenor.com/E8w9N-RREg8AAAAi/bocchi-the-rock-hitori-gotou.gif" width="160px"/>
-</p>
+# 💫 About Me:
+• 🏫 **Education:** An RPL student navigating through high school.<br>• 💻 **Current Focus:** Getting my hands dirty with back-end stuff, focusing on **C#** and building layouts with **HTML**.<br>• 🌱 **Learning Journey:** Still figuring out how everything works behind the scenes, from basic algorithms to coding logic and tracking progress with **Git**.<br>• 🎯 **Goals:** Just trying to build cool things, write cleaner code, and level up my skills day by day.<br>• 🎧 **Interests:** When I'm chilling or out of code ideas, I just plug in my earphones and lose myself in some *shoegaze* or *dream pop* vibes.<br>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/ender1161) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Levi Kazama) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyrmdhn_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advannewera@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BocchiTheProgrammer&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BocchiTheProgrammer&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BocchiTheProgrammer&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BocchiTheProgrammer&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF79C6&background=00000000&center=true&vCenter=true&width=500&height=90&lines=Z3NR+HERE...;ERR_GLITCH_SYSTEM...;Z3NR+HERE..." alt="Z3NR HERE" />
-</p>
-
-<p><i>"just a 10th-grade software engineering student trying to wrap my head around code while floating somewhere in space."</i></p>
-
-<p>📟 <b>status:</b> building backend logic with <b>C#</b>, styling layouts with <b>HTML</b>, and committing mistakes on <b>Git</b>.</p>
-
----
-
-### ☕ aesthetic & hyperfixations
-
-<details>
-<summary>🔮 <b>heavy rotation (music taste)</b></summary>
-<br>
-currently getting lost in tracks that sound like a warm room at 2 AM. majorly blasting:
-
-* `shoegaze / dream pop`
-* `slowcore / lo-fi`
-* `indie / bedroom pop`
-* `neo-psychedelic / city pop`
-</details>
-
-<details>
-<summary>🌐 <b>where to find me</b></summary>
-<br>
-feel free to drop a message or talk about music stuff:
-
-* 🌌 **instagram:** [@dyrmdhn_](https://instagram.com/dyrmdhn_)
-* 👾 **discord:** `ender1161`
-* 👤 **facebook:** [levi kazama](https://www.facebook.com/search/top/?q=Levi%20Kazama)
-</details>
-
----
-
-### 🛠️ development toolbox
-
-| focus | tools & technologies |
-| :--- | :--- |
-| **languages** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> |
-| **version control** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
-
----
-
-### 📊 github insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BocchiTheProgrammer&show_icons=true&theme=rose&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BocchiTheProgrammer&layout=compact&theme=rose&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=30&theme=rose&section=footer" width="100%" />
-</p>
+[![](https://komarev.com/ghpvc/?username=BocchiTheProgrammer&icon=10&color=0)](https://visitcou

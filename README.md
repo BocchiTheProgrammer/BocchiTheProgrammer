@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Bocchi GIF -->
-<img src="https://giphy.com/gifs/music-anime-meme-McASCOwSuSt4MDVwkC.gif" width="180" style="border-radius: 16px;"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOXFuamc3YnBqdWIwMGo4cWJlcGNlaWV3NHd2bDVyazFubTE1MHd2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="180" style="border-radius: 16px;"/>
 
 <br/><br/>
 

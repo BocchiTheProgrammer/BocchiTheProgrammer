@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=bocchi277&color=a29bfe&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=BocchiTheProgrammer&color=a29bfe&style=flat-square&label=profile+views" />
 
 </div>
 

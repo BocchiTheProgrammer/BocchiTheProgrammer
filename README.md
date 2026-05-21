@@ -1,3 +1,27 @@
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bocchi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=a29bfe" />
+
+<br/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Bocchi+%F0%9F%8E%B8;A+quiet+web+dev;I+build+things+no+one+asked+for;Anime+%7C+Code+%7C+Design+%7C+Solitude" alt="Typing SVG" />
+
+<br/>
+
+<!-- Bocchi GIF -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpazQzdGp1MTd3M3J3dWcwc3NhaXU4cHI5ZzVhN2xrYnNpaDd2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4vA8rB2oVQKK4zOn9/giphy.gif" width="180" style="border-radius: 16px;"/>
+
+<br/><br/>
+
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=bocchi277&color=a29bfe&style=flat-square&label=profile+views" />
+
+</div>
+
+---
+
 # 💫 About Me:
 • 🏫 **Education:** An RPL student navigating through high school.<br>• 💻 **Current Focus:** Getting my hands dirty with back-end stuff, focusing on **C#** and building layouts with **HTML**.<br>• 🌱 **Learning Journey:** Still figuring out how everything works behind the scenes, from basic algorithms to coding logic and tracking progress with **Git**.<br>• 🎯 **Goals:** Just trying to build cool things, write cleaner code, and level up my skills day by day.<br>
 

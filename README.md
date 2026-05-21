@@ -22,13 +22,26 @@
 
 ---
 
-## 💫 <details><summary>About Me</summary>
+# 🌟 About Me
 
-* 🏫 **Education:** An RPL student navigating through high school.
-* 💻 **Current Focus:** Getting my hands dirty with back-end stuff, focusing on **C#** and building layouts with **HTML**.
-* 🌱 **Learning Journey:** Still figuring out how everything works behind the scenes, from basic algorithms to coding logic and tracking progress with **Git**.
-* 🎯 **Goals:** Just trying to build cool things, write cleaner code, and level up my skills day by day.
+<details>
+<summary>🏫 Education</summary>
+An RPL student navigating through high school.
+</details>
 
+<details>
+<summary>💻 Current Focus</summary>
+Getting my hands dirty with back-end stuff, focusing on <b>C#</b> and building layouts with <b>HTML</b>.
+</details>
+
+<details>
+<summary>🌱 Learning Journey</summary>
+Still figuring out how everything works behind the scenes — from basic algorithms to coding logic, and tracking progress with <b>Git</b>.
+</details>
+
+<details>
+<summary>🎯 Goals</summary>
+Just trying to build cool things, write cleaner code, and level up my skills day by day.
 </details>
 
 ---

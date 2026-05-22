@@ -47,10 +47,14 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ---
 
 ## 🔗 Contact:
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmcxcXZ5eG1jbWd1M2xmbTJwMWR4Y2YyaTA0bXVoeTFpanE2aHBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KndSa9hJLvAZFpPgnj/giphy.gif" align="right" alt="Kirara" width="150" />
+
 [![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
 [![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi%20Kazama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23DA3287.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyrmdhn_)
 [![Email](https://img.shields.io/badge/Gmail-%23DA3287.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advannewera@gmail.com)
+
+<br clear="right"/>
 
 
 ---

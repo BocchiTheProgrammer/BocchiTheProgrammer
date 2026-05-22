@@ -46,8 +46,12 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/ender1161) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Levi Kazama) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyrmdhn_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advannewera@gmail.com) 
+## 🔗 Contact:
+[![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
+[![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi Kazama)
+[![Instagram](https://img.shields.io/badge/Instagram-%23DA3287.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyrmdhn_)
+[![Email](https://img.shields.io/badge/Gmail-%23DA3287.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advannewera@gmail.com)
+
 
 ---
 

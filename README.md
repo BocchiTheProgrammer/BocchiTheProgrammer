@@ -48,7 +48,7 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 
 ## 🔗 Contact:
 [![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
-[![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi Kazama)
+[![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi%20Kazama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23DA3287.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyrmdhn_)
 [![Email](https://img.shields.io/badge/Gmail-%23DA3287.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advannewera@gmail.com)
 

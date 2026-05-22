@@ -22,7 +22,7 @@
 
 ---
 
-# 🌟 &nbsp;About Me
+# 🌟 About Me
 
 <details>
 <summary>🏫 Education</summary>

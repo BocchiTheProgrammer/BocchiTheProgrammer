@@ -6,14 +6,9 @@
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=da3287&center=true&vCenter=true&width=500&lines=Bleh%2C+Bleh+Bleh+Bleh+%F0%9F%8E%B8;A+quiet+web+dev;I+build+things+no+one+asked+for;Anime+%7C+Code+%7C+Design+%7C+Solitude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=da3287&center=true&vCenter=true&width=500&lines=A+quiet+web+dev;I+build+things+no+one+asked+for;Anime+%7C+Code+%7C+Design+%7C+Solitude" alt="Typing SVG" />
 
 <br/>
-
-<!-- Bocchi GIF -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOXFuamc3YnBqdWIwMGo4cWJlcGNlaWV3NHd2bDVyazFubTE1MHd2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="180" style="border-radius: 16px;"/>
-
-<br/><br/>
 
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=BocchiTheProgrammer&color=a29bfe&style=flat-square&label=profile+views" />

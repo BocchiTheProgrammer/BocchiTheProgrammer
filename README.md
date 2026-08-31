@@ -21,7 +21,12 @@
 </div>
 
 ---
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right)](https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu)
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right" alt="Spotify" />
+  </a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOXFuamc3YnBqdWIwMGo4cWJlcGNlaWV3NHd2bDVyazFubTE1MHd2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="200" alt="Bocchi" />
+</div>
 ---
 
 ## 🌟 About Me

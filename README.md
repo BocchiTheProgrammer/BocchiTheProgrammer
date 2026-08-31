@@ -79,11 +79,7 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 ---

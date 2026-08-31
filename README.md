@@ -84,4 +84,13 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:da3287,50:7e2a70,100:f7a4c4&height=120&section=footer" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=120&section=footer&animation=fadeIn" />
+

@@ -24,7 +24,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" align="right" alt="Bocchi" />
 </div>
 
+
 ---
+
 
 ## 🌟 About Me
 

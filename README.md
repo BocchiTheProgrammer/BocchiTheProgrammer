@@ -21,7 +21,7 @@
   <a href="https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu">
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right" alt="Spotify" />
   </a>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOXFuamc3YnBqdWIwMGo4cWJlcGNlaWV3NHd2bDVyazFubTE1MHd2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="170" align="right" alt="Bocchi" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" align="right" alt="Bocchi" />
 </div>
 
 ---

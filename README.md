@@ -21,6 +21,8 @@
 </div>
 
 ---
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right)](https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu)
+---
 
 ## 🌟 About Me
 

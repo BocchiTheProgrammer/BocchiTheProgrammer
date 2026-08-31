@@ -84,9 +84,4 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<img data-importer="snake" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
----
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:da3287,50:7e2a70,100:f7a4c4&height=120&section=footer" />

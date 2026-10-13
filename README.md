@@ -1,32 +1,30 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=200&section=header&text=Bocchi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=quiet%20dev%20%E2%80%A2%20ui%20crafts%20%E2%80%A2%20solitude&descAlignY=58&descSize=16&descColor=f7a4c4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=200&section=header&text=Bocchi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=web%20developer&descFontSize=18&descColor=ffffff&fontAlignX=50&padding=20" alt="Bocchi banner" width="100%" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
 
 <br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=da3287&center=true&vCenter=true&width=500&lines=A+quiet+web+dev;I+build+things+no+one+asked+for;Anime+%7C+Code+%7C+Design+%7C+Solitude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=da3287&center=true&vCenter=true&width=500&lines=A+quiet+web+dev;I+build+things+no+one+asked+for;I+like+tiny+details+and+weird+ideas" alt="Typing intro" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
 
 <br/>
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=BocchiTheProgrammer&color=a29bfe&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=BocchiTheProgrammer&color=a29bfe&style=flat-square&label=profile+views" alt="Profile views" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
 
 </div>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right" alt="Spotify" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right" alt="Spotify" style="display:block; max-width:100%; height:auto; border:0;" />
   </a>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" align="right" alt="Bocchi" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" alt="Bocchi GIF" style="display:block; max-width:100%; height:auto; border:0;" />
 </div>
 
-
 ---
-
 
 ## 🌟 About Me
 
@@ -53,7 +51,7 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ---
 
 ## 🔗 Contact:
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmcxcXZ5eG1jbWd1M2xmbTJwMWR4Y2YyaTA0bXVoeTFpanE2aHBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KndSa9hJLvAZFpPgnj/giphy.gif" align="right" alt="Kirara" width="150" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmcxcXZ5eG1jbWd1M2xmbTJwMWR4Y2YyaTA0bXVoeTFpanE2aHBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KndSa9hJLvAZFpPgnj/giphy.gif" align="right" alt="Contact art" width="180" style="display:block; max-width:100%; height:auto; margin-left:auto; border:0;" />
 
 [![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
 [![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi%20Kazama)
@@ -62,11 +60,10 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 
 <br clear="right"/>
 
-
 ---
 
 ## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
@@ -81,9 +78,8 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<img data-importer="snake" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/snake-output/snake.svg" alt="Snake animation" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
 
 ###
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=120&section=footer&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=120&section=footer&animation=fadeIn" alt="Footer banner" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />

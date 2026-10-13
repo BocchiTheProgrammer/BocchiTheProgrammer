@@ -21,13 +21,13 @@
   <a href="https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu">
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right" alt="Spotify" style="display:block; max-width:100%; height:auto; border:0;" />
   </a>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" alt="Bocchi GIF" style="display:block; max-width:100%; height:auto; border:0;" />
 </div>
 
 ---
 
 ## 🌟 About Me
-
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" align="right" alt="Bocchi GIF" style="display:block; max-width:100%; height:auto; border:0;" />
+  
 <details>
 <summary>🏫 Education</summary>
 An RPL student navigating through high school.
@@ -51,7 +51,7 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 ---
 
 ## 🔗 Contact:
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmcxcXZ5eG1jbWd1M2xmbTJwMWR4Y2YyaTA0bXVoeTFpanE2aHBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KndSa9hJLvAZFpPgnj/giphy.gif" align="right" alt="Contact art" width="180" style="display:block; max-width:100%; height:auto; margin-left:auto; border:0;" />
+<img src="https://i.pinimg.com/736x/ed/0d/5a/ed0d5a51e0d18371e400f58d95afdeac.jpg" align="right" alt="Contact art" width="180" style="display:block; max-width:100%; height:auto; margin-left:auto; border:0;" />
 
 [![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
 [![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi%20Kazama)

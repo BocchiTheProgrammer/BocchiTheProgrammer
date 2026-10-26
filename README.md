@@ -62,7 +62,14 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 </div>
 
 ---
+## Stats
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BocchiTheProgrammer&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=BocchiTheProgrammer&show_icons=true&include_all_commits=true&theme=radical)
 
+</div>
+
+---
 ## 🔗 Contact
 <div align="center">
   

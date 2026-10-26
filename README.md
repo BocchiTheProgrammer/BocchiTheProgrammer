@@ -25,8 +25,8 @@
 
 ---
 
-## 🌟 About Me
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtzYmxyM3hudDZncmZoMm9jZDdmdzhlOTB1cXY1OW41ZzB4Nm90ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DFUuQcs1GGA5JakpDA/giphy.gif" width="170" align="right" alt="Bocchi GIF" style="display:block; max-width:100%; height:auto; border:0;" />
+## About Me
+<img src="https://i.pinimg.com/736x/ed/0d/5a/ed0d5a51e0d18371e400f58d95afdeac.jpg" align="right" alt="Contact art" width="140" style="display:block; max-width:100%; height:auto; margin-left:auto; border:0;" />
   
 <details>
 <summary>🏫 Education</summary>
@@ -50,27 +50,17 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 
 ---
 
-## 🔗 Contact:
-<img src="https://i.pinimg.com/736x/ed/0d/5a/ed0d5a51e0d18371e400f58d95afdeac.jpg" align="right" alt="Contact art" width="180" style="display:block; max-width:100%; height:auto; margin-left:auto; border:0;" />
-
+## 🔗 Contact
 [![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
 [![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi%20Kazama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23DA3287.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyrmdhn_)
 [![Email](https://img.shields.io/badge/Gmail-%23DA3287.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advannewera@gmail.com)
-
 <br clear="right"/>
 
 ---
 
-## 💻 Tech Stack:
+## 👾 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
----
-
----
-
-## 🏆 Achievement
-![](https://github-profile-trophy.vercel.app/?username=BocchiTheProgrammer&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 

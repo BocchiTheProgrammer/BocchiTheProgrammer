@@ -17,10 +17,10 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&count=1&width=470&radius=24&profile=footer-right" alt="Spotify" style="display:block; max-width:100%; height:auto; border:0;" />
-  </a>
+<div align="center">
+  
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313zmcqu3wshz4npfgkv27xjxqlu&theme=radical&width=700&radius=18&footer=wave)](https://open.spotify.com/user/313zmcqu3wshz4npfgkv27xjxqlu)
+
 </div>
 
 ---
@@ -50,26 +50,33 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 
 ---
 
+## 👾 Tech Stack
+<div align="center"> 
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-DA3287?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=DA3287)
+![HTML5](https://img.shields.io/badge/HTML5-HTML5-DA3287?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=DA3287)
+![CSS](https://img.shields.io/badge/CSS-CSS-DA3287?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=DA3287)
+![Python](https://img.shields.io/badge/Python-Python-DA3287?style=for-the-badge&logo=Python&logoColor=3776AB&labelColor=DA3287)
+![Git](https://img.shields.io/badge/Git-Git-DA3287?style=for-the-badge&logo=git&logoColor=F05032&labelColor=DA3287)
+
+</div>
+
+---
+
 ## 🔗 Contact
+<div align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-%23DA3287.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ender1161)
 [![Facebook](https://img.shields.io/badge/Facebook-%23DA3287.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Levi%20Kazama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23DA3287.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dyrmdhn_)
 [![Email](https://img.shields.io/badge/Gmail-%23DA3287.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advannewera@gmail.com)
 <br clear="right"/>
 
----
 
-## 👾 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<sub><i>You can tell I'm a programmer just by looking at my posture.
 ---
 <img data-importer="snake" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/snake-output/snake.svg" alt="Snake animation" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
 
 ###
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=120&section=footer&animation=fadeIn" alt="Footer banner" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:da3287,100:7e2a70&height=150&section=footer&animation=fadeIn" alt="Footer banner" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />

@@ -80,7 +80,7 @@ Just trying to build cool things, write cleaner code, and level up my skills day
 <br clear="right"/>
 
 
-<sub><i>You can tell I'm a programmer just by looking at my posture.
+<sub><i>Say hi to the new Galaxy Note10+.
 ---
 <img data-importer="snake" src="https://raw.githubusercontent.com/BocchiTheProgrammer/BocchiTheProgrammer/snake-output/snake.svg" alt="Snake animation" style="display:block; max-width:100%; height:auto; margin:0 auto; border:0;" />
 
